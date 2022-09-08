@@ -44,7 +44,7 @@ for inspiration. You can try it out:
 wget https://ramp0storage.blob.core.windows.net/spc-output/v1/rutland.pb.gz
 # Uncompress
 gunzip rutland.pb.gz
-# Convert the .pb to JSON
+# Convert the .pb to CSV
 python3 python/protobuf_to_csv.py data/output/rutland.pb
 # View the output
 less people.csv
