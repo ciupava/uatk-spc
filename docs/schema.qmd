@@ -5,6 +5,7 @@ toc: true
 
 ## Understanding the schema
 
+
 Here are some helpful tips for understanding the
 [schema](https://github.com/alan-turing-institute/uatk-spc/blob/main/synthpop.proto).
 
